@@ -1,12 +1,41 @@
-# React + Vite
+![image](https://github.com/user-attachments/assets/b5ec7423-bd4c-48ac-8126-990caecdf100)E-commerce-website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern -ecommerce web application built with React.js, Javascript and Tailwind CSS, using the Fake Store API as a mock backend. The app allow users to browse products, view detaild product pages, and add items to a cart. It,s designed to showcase a clean UI, fast performance and a responsive layout for a smooth shopping experience on any device.
 
-Currently, two official plugins are available:
+Folder Structure
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+.
+├── components
+├── pages
+├── public
+├── styles
+└── ...
 
-## Expanding the ESLint configuration
+Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Product Listing: Browse a catalog of products fetched from the Fake Store API
+- Add to Cart: Add products to a cart and see total items and price
+- Responsive Design: Work seamlessly on desktop, tablets and phones
+
+Tech Stack
+- Framework: React.js
+- Language: JavaScript
+- Styling: Tailwind CSS
+- API: Fake Store API
+
+Snapshots
+
+Hero Page
+C:\Users\Neha Chintawar\OneDrive\Pictures\Screenshots
+
+Home Page
+C:\Users\Neha Chintawar\OneDrive\Pictures\Screenshots
+
+Add to Cart
+C:\Users\Neha Chintawar\OneDrive\Pictures\Screenshots
+
+LocalStorage
+Tasks are saved in the browser's LocalStorage, which means the tasks will persist even if the page is refreshed. However, tasks are not saved across different browsers or devices.
+
+Contributing
+Feel free to fork this project, submit issues, or open pull requests if you'd like to contribute.
