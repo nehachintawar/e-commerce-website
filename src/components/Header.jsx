@@ -3,7 +3,7 @@ import { SidebarContext } from '../contexts/SidebarContext';
 import { CartContext} from '../contexts/CartContext'
 import { BsBag } from 'react-icons/bs';
 import { Link } from 'react-router-dom';
-import Logo from '../assets/react.svg';
+// import Logo from '../assets/image/logo.jpeg';
 
 const Header = () => {
   const [isActive, setIsActive] = useState(false);
@@ -23,11 +23,11 @@ const Header = () => {
       <div className='container mx-auto flex items-center justify-betwwen h-full'>
 
       </div>
-    <Link to={'/'}>
+    {/* <Link to={'/'}>
     <div>
       <img className='w-[40px]' src={Logo} alt="" />
     </div>
-    </Link>
+    </Link> */}
     <div onClick={() => setIsOpen(!isOpen)} className='cursor-pointer flex relative'>
       <BsBag className='text-2xl'/>
 
