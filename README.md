@@ -1,12 +1,31 @@
-# React + Vite
+e-commerce-website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern e-commerce web application built with React.js, Javascript and Tailwind CSS, using the Fake Store API as a mock backend. The app allow users to browse products, view detaild product pages, and add items to a cart. It,s designed to showcase a clean UI, fast performance and a responsive layout for a smooth shopping experience on any device.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Product Listing: Browse a catalog of products fetched from the Fake Store API
+- Add to Cart: Add products to a cart and see total items and price
+- Responsive Design: Work seamlessly on desktop, tablets and phones
 
-## Expanding the ESLint configuration
+Tech Stack
+- Framework: React.js
+- Language: JavaScript
+- Styling: Tailwind CSS
+- API: Fake Store API
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Snapshots
+
+Hero Page
+![image alt](https://github.com/nehachintawar/e-commerce-website/blob/5af405899041607337be6eb0912f94a2189d08e9/Screenshot%202025-04-26%20025502.png)
+
+Home Page
+![image alt](https://github.com/nehachintawar/e-commerce-website/blob/5af405899041607337be6eb0912f94a2189d08e9/Screenshot%202025-04-26%20030111.png)
+
+Add to Cart
+![image alt](https://github.com/nehachintawar/e-commerce-website/blob/5af405899041607337be6eb0912f94a2189d08e9/Screenshot%202025-04-26%20025919.png)
+
+LocalStorage
+
+Tasks are saved in the browser's LocalStorage, which means the tasks will persist even if the page is refreshed. However, tasks are not saved across different browsers or devices.
+
