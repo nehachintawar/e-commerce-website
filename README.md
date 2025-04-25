@@ -6,13 +6,9 @@ Folder Structure
 
 .
 ├── components
-
 ├── pages
-
 ├── public
-
 ├── styles
-
 └── ...
 
 Features
