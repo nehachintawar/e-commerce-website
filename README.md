@@ -26,13 +26,13 @@ Tech Stack
 Snapshots
 
 Hero Page
-![image]C:\Users\Neha Chintawar\OneDrive\Pictures\Screenshots
+![image alt](https://github.com/nehachintawar/e-commerce-website/blob/5af405899041607337be6eb0912f94a2189d08e9/Screenshot%202025-04-26%20025502.png)
 
 Home Page
-![image]C:\Users\Neha Chintawar\OneDrive\Pictures\Screenshots
+![image alt](https://github.com/nehachintawar/e-commerce-website/blob/5af405899041607337be6eb0912f94a2189d08e9/Screenshot%202025-04-26%20030111.png)
 
 Add to Cart
-![image]C:\Users\Neha Chintawar\OneDrive\Pictures\Screenshots
+![image alt](https://github.com/nehachintawar/e-commerce-website/blob/5af405899041607337be6eb0912f94a2189d08e9/Screenshot%202025-04-26%20025919.png)
 
 LocalStorage
 Tasks are saved in the browser's LocalStorage, which means the tasks will persist even if the page is refreshed. However, tasks are not saved across different browsers or devices.
