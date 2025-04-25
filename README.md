@@ -29,6 +29,3 @@ LocalStorage
 
 Tasks are saved in the browser's LocalStorage, which means the tasks will persist even if the page is refreshed. However, tasks are not saved across different browsers or devices.
 
-Contributing
-
-Feel free to fork this project, submit issues, or open pull requests if you'd like to contribute.
